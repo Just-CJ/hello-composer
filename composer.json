@@ -1,0 +1,12 @@
+{
+    "name": "just-cj/hello-composer",
+    "description": "hello composer",
+    "type": "library",
+    "authors": [
+        {
+            "name": "陈俊",
+            "email": "chenjun@yifangyun.com"
+        }
+    ],
+    "require": {}
+}
